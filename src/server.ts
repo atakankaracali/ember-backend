@@ -1,4 +1,4 @@
-import { PrismaClient } from "@prisma/client";
+import { PrismaClient } from '@prisma/client';
 import Fastify from "fastify";
 import cors from '@fastify/cors';
 

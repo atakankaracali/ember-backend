@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# debug
+.pnpm-debug.log*
+
+# typescript
+*.tsbuildinfo
+
+prisma/*.db
+prisma/*.db-journal
